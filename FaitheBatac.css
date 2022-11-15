@@ -1,0 +1,44 @@
+h1{
+	font-family: fantasy;
+	color: deeppink ;
+	text-decoration: underline;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	text-shadow: 2px black;
+}
+p{
+	text-indent: 25px;
+	color: whitesmoke;
+}
+span{
+	font-variant: small-caps;
+	font font-weight: bold;
+	text-shadow: 1px 1px black;
+	color: white;
+}
+}
+#external{
+	text-shadow: 1px 1px black;
+	color: deeppink;
+}
+body{
+	background: lightpink;
+}
+img{
+	border-style: solid;
+	border-color: deeppink;
+	float:  right;
+}
+small{
+	color: deeppink;
+}
+#picture1{
+	border-style: solid;
+	border-color; black;
+	float:  right;
+}
+#picture2{
+	
+    ;
+
+}
